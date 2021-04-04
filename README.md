@@ -1,11 +1,11 @@
 <h1 align="center">
   <a href="https://github.com/csorlandi/nodejs-concepts">
-    <img alt="Logo React Native" src="./assets/logo.png" width="600px" />
+    <img alt="Logo React Native" src="./src/assets/logo.png" width="600px" />
   </a>
 </h1>
 
 <p align="center">
-  <a href="#execution">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#execution">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies Used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#run">How to run the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=61dafb&labelColor=000000" alt="PRs welcome!" />
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=FF9000&labelColor=000000" alt="PRs welcome!" />
 
-  <img alt="License" src="https://img.shields.io/badge/Made%20by-Ruth%20Maria-61dafb">
+  <img alt="License" src="https://img.shields.io/badge/Made%20by-Ruth%20Maria-FF9000">
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=61dafb&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=FF9000&labelColor=000000">
 </p>
 
 <br>
@@ -48,14 +48,14 @@ it's an Application which stores repositories of the a portfolio. it enables one
 
 <br>
 
-- Clone the repository of the [API](https://github.com/RuthMaria/gostack-nodeJs-concepts) and run
+- Clone the repository of the [API](https://github.com/RuthMaria/GoBarber-backend) and run
 
 <br>
 
 - Clone this repository
 
 ```
-git clone https://github.com/RuthMaria/gostack-reactNative-concepts.git
+git clone https://github.com/RuthMaria/GoBarber-mobile.git
 ```
 
 - Install dependencies
